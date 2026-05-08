@@ -66,12 +66,7 @@ Environmental DNA (eDNA) from water samples is used to track invasive species or
 4. Transparent Metrics: It provides a clear "Weighted Score" rather than a vague "Pass/Fail," allowing researchers to make informed decisions on marginal primers.
 
 ⚖️ Comparison with Existing Tools
-Feature,Primer3 / NCBI Primer-BLAST,GhostPrime AI
-Scoring Logic,Flat alignment score,3'-Anchored Weighting (10x)
-Off-Target Focus,Focuses on Tm​ and dimers,Focuses on Functional Extension
-Visual Output,Text-based tables,Predicted Virtual Gel Mapping
-User Interface,Complex / Web-heavy,Interactive Streamlit Dashboard
-Local Audit,Hard to run locally for custom genomes,Drag-and-Drop for any FASTA
+<img width="957" height="471" alt="image" src="https://github.com/user-attachments/assets/c1580bd4-da68-4b28-9ccf-c580933e410c" />
 
 ⚠️ Limitations & Future Work
 While GhostPrime AI is a powerful auditor, users should keep the following in mind:

@@ -1,4 +1,8 @@
 # GhostPrime_AI
+(https://doi.org/10.5281/zenodo.20090462)
+[> Live Tool: Access the interactive version of GhostPrime AI at - https://ghostprimeai-jmqnu7wrjsceecyurh36lz.streamlit.app/
+Usage: Users can upload custom genomic FASTA files to perform 3'-anchored off-target audits in real-time.]
+
 GhostPrime AI: A predictive PCR auditor using a 3'-anchored thermodynamic algorithm to eliminate non-specific "Ghost Bands." Unlike standard tools, it applies positional weighting to simulate real DNA polymerase behavior, ensuring high-specificity diagnostics in complex metagenomic and agricultural environments. Developed for reproducibility.
 
 🔬 The Core Concept: Positional Weighting & 3'-Anchoring

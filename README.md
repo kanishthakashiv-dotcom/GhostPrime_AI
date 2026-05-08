@@ -76,6 +76,4 @@ While GhostPrime AI is a powerful auditor, users should keep the following in mi
 2. Sequence Length: Optimized for standard PCR primers (18-30bp). It may be less accurate for long-range PCR or extremely short probes.
    
 3. Computational Load: Scanning 3GB+ genomes (like the full Human Genome) using a sliding window in Python is slower than optimized C++ tools like Bowtie2.
-  
-4. Workaround: We recommend using sub-sampled genomic regions for rapid auditing.
    
